@@ -42,4 +42,4 @@ Uma calculadora simples e funcional do **IMC (Índice de Massa Corporal)** desen
 
 #  Autor
 
-- Desenvolvido por Rickson Portela,
+- Desenvolvido por Rickson Portela, Estudante de Análise e Desenvolvimento de Sistemas.
